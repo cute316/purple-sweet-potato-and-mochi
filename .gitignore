@@ -1,1 +1,17 @@
 ~$*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated output
+rendered_coin_report/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
